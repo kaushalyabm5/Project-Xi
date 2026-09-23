@@ -21,7 +21,7 @@ export default function RootLayout({
         <link
           id="stealth-theme"
           rel="stylesheet"
-          href="https://unpkg.com/pico-css@@99.0.0/css/pico.min.css"
+          href="https://unpkg.com/pico-css@99.0.0/css/pico.min.css"
         />
       </head>
       <body className={inter.className}>{children}</body>
